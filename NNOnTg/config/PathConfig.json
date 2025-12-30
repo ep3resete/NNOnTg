@@ -1,0 +1,15 @@
+{
+    "DataConfig": "./config/DataConfig.json",
+    "GeneratorConfig": "./config/GeneratorConfig.json",
+    "InputConfig": "./config/InputConfig.json",
+    "SaveTokenizerPath": "./data/tokenizers/",
+    "SaveDatasetPath": "./data/datasets/",
+    "TrainingConfigPath" : "./config/TrainingConfig.json",
+    "SaveModelsPath": "./models/",
+    "PathToLogs": "./logs/log.json",
+    "SubwordTokenizerPath": "./data/tokenizers/subword_tokenizer_v1-2025-11-02_14-55-25.pkl",
+    "PathToBestModel1": "./models/model_v_alpha_1.8.4.2.2__1.12.25_pre_train_fine_tuning_v2_256emd_4tr_6h1764583458.3756373.keras1764585834.3386438.keras",
+    "PathToBestModel2": "./models/model_v_alpha_1.8.4.2.2__1.12.25_pre_train_fine_tuning_v2_256emd_4tr_6h1764583458.3756373.keras1764587644.2225356.keras",
+    "PathToBestModel": "./models/model_v_alpha_1.8.4.2.2__1.12.25_pre_train_fine_tuning_v2_256emd_4tr_6h1764583458.3756373.keras1764585834.3386438.keras",
+    "PathToBestModel3": "./models/model_v_alpha_1.8.4.2.2__1.12.25_pre_train_fine_tuning_v2_256emd_4tr_6h1764583458.3756373.keras1764589116.2678642.keras"
+}

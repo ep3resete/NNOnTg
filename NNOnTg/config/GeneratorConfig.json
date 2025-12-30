@@ -1,0 +1,14 @@
+{
+    "Generator": 
+    {
+        "temperature": 0.8, 
+        "top_p": 0.9, 
+        "max_length": 120,
+        "dropout_config": 
+        {
+            "ffn_dropout": 0.35, 
+            "residual_dropout": 0.2
+        }
+        
+    }
+}

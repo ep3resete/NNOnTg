@@ -1,0 +1,48 @@
+{
+    "path_to_tokenized_file3": "./data/tokenized_dataset.json",
+    "path_to_tokenized_file2": "./data/tokenized_row_data.json",
+    "path_to_tokenized_file4": "./data/tokenized_row_data_with_assistent.json",
+
+    "path_to_tokenized_file": "./data/tokenized_texts_pre_trained_dataset.json",
+    "path_to_tokenized_file7": "./data/tokenized_row_re3_data_with_assistent.json",
+
+    "path_to_tokenized_file5": "./data/tokenized_row_re5_data_with_assistent.json",
+    "path_to_tokenized_file6": "./data/tokenized_qa_dataset_preproccessed.json",
+    "path_to_tokenized_dialogs_file4": "./data/tokenized_row_data_with_assistent.json",
+    "path_to_tokenized_dialogs_file3": "./data/tokenized_row_re5_data_with_assistent.json",
+    "path_to_tokenized_dialogs_file1": "./data/tokenized_row_re3_data_with_assistent.json",
+    "path_to_tokenized_dialogs_file2": "./data/row_tokenized_data_2.json",
+    "path_to_tokenized_dialogs_file": "./data/new_row_tokenized_data.json",
+    "path_to_tokenized_simplr_texts_file": "./data/tokenized_texts_pre_trained_dataset.json",
+    "path_to_tokenized_simplr_texts_file1": "./data/tokenized_texts_pre_trained_dataset1.json",
+    "path_to_tokenized_texts_file2": "./data/tokenized_texts_dataset.json",
+    "path_to_tokenized_texts_file": "./data/tokenized_books_dataset.json",
+    "path_to_tokenized_texts_file1": "./data/tokenized_books_dataset1.json",
+
+    "path_to_row_data3": "./data/row_data.json",
+    "path_to_row_data2": "./data/re2_dataset.json",
+    "path_to_row_dialogs_data2": "./data/re_new_dataset.json",
+    "path_to_row_dialogs_data3": "./data/re3_dataset_preproccessed.json",
+    "path_to_row_dialogs_data1": "./data/qa_dataset_preproccessed.json",
+    "path_to_row_dialogs_data4": "./data/row_data_2.json",
+    "path_to_row_dialogs_data": "./data/new_row_data.json",
+    "path_to_row_simple_texts_data": "./data/texts_pre_trained_dataset.json",
+    "path_to_row_texts_data2": "./data/json_from_txt_dataset.json",
+    "path_to_row_texts_data": "./data/books_dataset.json",
+
+    "vocab_size1": 21069, 
+    "vocab_size": 10000, 
+    "tokenizer_config":
+    {
+        "name_of_tokenizer": "subword_tokenizer_v2_pre_trained"
+    },
+    "dataset_config":
+    {
+        "name_of_dataset": "dataset_v3_pre_trained",
+        "path_to_dataset_json": "./data/dataset_copy.json",
+        "path_to_dataset_json2": "./data/dataset.json",
+        "save_to_json": true,
+        "batch_size": 256,
+        "shuffle_buffer_size" : 10000
+    }
+}
